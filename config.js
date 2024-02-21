@@ -9,9 +9,9 @@ module.exports = {
       host: '127.0.0.1',
       port: 3306,
       user: 'root',
-      password: 'oak_123456',
+      password: '',
       //  database : 'activity_62',
-      database: 'd5_2564',
+      database: 'member',
     },
   },
 
